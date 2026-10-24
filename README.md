@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Poornam Jaiswal 👋
 
-<!--
-**poornam9569/poornam9569** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 PGDM Student | Aspiring Data Analyst
 
-Here are some ideas to get you started:
+I am a management student interested in Python, Data Analytics, Business Intelligence, and data-driven decision-making.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Education
+- PGDM — Currently pursuing
+- BBA in Finance — 2026
+
+## Skills I'm Learning
+- Python for Data Analysis
+- Microsoft Excel
+- Statistics
+- Data Visualization
+- Business Analytics
+
+## Projects
+- Retail Sales Analysis
+- Financial Data Analysis
+- Exploratory Data Analysis
+
+## Interests
+- Business and Finance
+- Data Analytics
+- Technology and Continuous Learning
+
+## Connect With Me
+- Kaggle: Add your Kaggle profile link
+- LinkedIn: Add your LinkedIn profile link
+
+*Learning, building, and growing one project at a time.*
